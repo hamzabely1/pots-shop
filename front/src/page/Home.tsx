@@ -14,7 +14,7 @@ type Item = {
 }
 
 type Items = {
-    data : Item[];
+    data : Item[]
 }
 
 
