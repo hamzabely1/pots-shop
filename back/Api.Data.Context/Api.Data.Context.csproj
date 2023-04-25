@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -20,5 +20,18 @@
     </PackageReference>
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
   </ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Api.Data.Context.Contract">
+			<HintPath>..\Api.Data.Context.Contract\obj\debug\net6.0\Api.Data.Context.Contract.dll</HintPath>
+		</Reference>			
+		</ItemGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include="..\Api.Data.Entity2\Api.Data.Entity2.csproj" />
+	</ItemGroup>
+
+	
+
 
 </Project>

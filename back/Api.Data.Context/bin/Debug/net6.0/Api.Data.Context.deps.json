@@ -8,11 +8,13 @@
     ".NETCoreApp,Version=v6.0": {
       "Api.Data.Context/1.0.0": {
         "dependencies": {
+          "Api.Data.Entity2": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.Design": "7.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.5",
-          "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
+          "Api.Data.Context.Contract": "1.0.0.0"
         },
         "runtime": {
           "Api.Data.Context.dll": {}
@@ -720,6 +722,23 @@
             "fileVersion": "5.0.20.51904"
           }
         }
+      },
+      "Api.Data.Entity2/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
+        },
+        "runtime": {
+          "Api.Data.Entity2.dll": {}
+        }
+      },
+      "Api.Data.Context.Contract/1.0.0.0": {
+        "runtime": {
+          "Api.Data.Context.Contract.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1218,6 +1237,16 @@
       "sha512": "sha512-c1ho9WU9ZxMZawML+ssPKZfdnrg/OjR3pe0m9v8230z3acqphwvPJqzAkH54xRYm5ntZHGG1EPP3sux9H3qSPg==",
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
+    },
+    "Api.Data.Entity2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Api.Data.Context.Contract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

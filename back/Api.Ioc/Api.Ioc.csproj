@@ -1,16 +1,19 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="7.0.0" />
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Design" Version="1.1.2" />
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql.Json.Microsoft" Version="7.0.0" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\Api.Data.Context.Contract\Api.Data.Context.Contract.csproj" />
+		<ProjectReference Include="..\Api.Data.Entity2\Api.Data.Entity2.csproj" />
+		<ProjectReference Include="..\Api.Data.Repository.Contract\Api.Data.Repository.Contract.csproj" />
+		<ProjectReference Include="..\Api.Data.Repository\Api.Data.Repository.csproj" />
+		<ProjectReference Include="..\Api.Business.Service\Api.Business.Service.csproj" />
+		<ProjectReference Include="..\Api.Business.Service.Contract\Api.Business.Service.Contract.csproj" />
+		<ProjectReference Include="..\Api.Data.Context\Api.Data.Context.csproj" />
+	</ItemGroup>
 
 </Project>

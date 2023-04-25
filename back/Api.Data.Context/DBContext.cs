@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using Api.Data.Context.Model;
 using Microsoft.EntityFrameworkCore;
+using Api.Data.Context.Contract;
+using Api.Data.Entity2.Model;
 
 namespace Api.Data.Context;
 
-public partial class DBContext : DbContext
+public partial class DBContext : DbContext,IDBContext
 {
-    public DBContext()
-    {
-    }
+  
 
     public DBContext(DbContextOptions<DBContext> options)
         : base(options)

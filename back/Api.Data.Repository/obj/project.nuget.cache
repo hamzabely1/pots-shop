@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "w19Coa9lFDJ+Ki7DNnyuZ0W2m82R8xu6HwAUqsc9CeI2tW2aaB8y2U2sx//fidLhXs4ahjKgUam0vTkdue78qw==",
+  "dgSpecHash": "zvN/RwBkGlh/QXd+m1PzeQ92lPsB8s3/p+MjdTQHnd1BqOdrr64y/CAtM6/6BHoFHxX91qwggrPNhPYQ1TkBgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Repository\\Api.Data.Repository.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
-    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
-    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.2\\microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
+    "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.4\\microsoft.entityframeworkcore.analyzers.7.0.4.nupkg.sha512",
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.relational.design\\1.1.1\\microsoft.entityframeworkcore.relational.design.1.1.1.nupkg.sha512",
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",

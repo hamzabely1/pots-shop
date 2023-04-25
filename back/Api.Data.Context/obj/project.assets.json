@@ -1185,6 +1185,20 @@
             "rid": "win"
           }
         }
+      },
+      "Api.Data.Entity2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.4",
+          "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Api.Data.Entity2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Api.Data.Entity2.dll": {}
+        }
       }
     }
   },
@@ -3574,10 +3588,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Api.Data.Entity2/1.0.0": {
+      "type": "project",
+      "path": "../Api.Data.Entity2/Api.Data.Entity2.csproj",
+      "msbuildProject": "../Api.Data.Entity2/Api.Data.Entity2.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Api.Data.Entity2 >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
@@ -3617,7 +3637,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
+              "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
