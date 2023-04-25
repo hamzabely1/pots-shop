@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Api.Ioc
 {
-    internal class Ioc
+    public static class Ioc
     {
+
     }
 }
