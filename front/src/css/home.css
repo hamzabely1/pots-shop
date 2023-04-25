@@ -1,0 +1,11 @@
+.size_img{
+    /*background-image: url("../src/img/imgHome.jpeg");*/
+    height: 600px;
+    width: 100%;
+}
+.div_cree{
+    position : relative;
+    height: 700px;
+    width: 100px;
+    background-color: white;
+}
