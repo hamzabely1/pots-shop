@@ -102,3 +102,4 @@ C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\App\obj\Debug\net6.0\refint\App
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\App\obj\Debug\net6.0\App.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\App\obj\Debug\net6.0\App.genruntimeconfig.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\App\obj\Debug\net6.0\ref\App.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cs

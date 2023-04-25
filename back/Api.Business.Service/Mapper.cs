@@ -1,4 +1,5 @@
-﻿using Api.Business.Model.User;
+﻿using Api.Business.Model.Item;
+using Api.Business.Model.User;
 using Api.Data.Entity2.Model;
 using System;
 using System.Collections.Generic;
@@ -21,8 +22,22 @@ namespace Api.Business.Service
                 UserPassword = user.Password
 
             };
-
             return userRead;
+        }
+        public static ItemRead TransformItemToDTO(Item item)
+        {
+            ItemRead itemRead = new ItemRead()
+            {
+           ItemName = item.Name,
+           ItemDescription = item.Description,
+           ItemPrice = item.Price,
+           ItemStock = item.Stock,
+           ItemType = item.Type,
+           ItemImage= item.Image
+
+            };
+
+            return itemRead;
 
         }
     }

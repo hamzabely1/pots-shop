@@ -27,6 +27,7 @@ namespace Api.Ioc
             // - Service
 
             services.AddScoped<IServicesUser, ServicesUser>();
+            services.AddScoped<IServiceItem, ServiceItem>();
 
             return services;
         }
