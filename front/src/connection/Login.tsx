@@ -7,10 +7,10 @@ const Login = () => {
     return (
         <div>
             <NavBar/>
-            <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
+            <div className="flex justify-between container_login">
+            <div className="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8 ml-72 mb-[390px]">
                 <div className="sm:mx-auto sm:w-full sm:max-w-sm">
-                        <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">Sign
-                            in to your account</h2>
+                        <h2 className="mt-10 text-center text-2xl font-bold leading-9 tracking-tight text-gray-900">login</h2>
                 </div>
                 <div className="mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
                     <form className="space-y-6" action="#" method="POST">
@@ -53,6 +53,11 @@ const Login = () => {
                             day free trial</a>
                     </p>
                 </div>
+
+            </div>
+            <div className="">
+                <img className="size_img" src="https://s3-alpha-sig.figma.com/img/231c/4663/2b7bc0a6298aafb8e8f6a159743acd96?Expires=1683504000&Signature=msREY6lxnwjPDW~fBOnJ1N-CnKWDcQtOC1mXuaqSitfI-zYmbeR16U9MiGUoAPfvvy4vNKvo1pVYuiSHbM9eYB5gww4hmw~zPkriw2FsVita5X-LI7GdQNYOA8lcqXJOwVYlNRbL0I55TWnCYF1nHg~Zg0IUVBN5-Ehf8k5lu66BXHmWE2~TIxu29DoI4qSmtX64S0Iwit4od-7~XmpD9mR4cI-gYcrk0KVY4-RE5Qjyl0MwiJn7jOQ0c9MkQwKEcPosr0ZRQNi4St~z3DRGqmkOMsP080lu-IxpxMLtldxR0fkI2DV1jFIGUbhyBYwWPjBgM3M5XaVVeYYA905-kg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4" alt=""></img>
+            </div>
             </div>
         </div>
     );

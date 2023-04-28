@@ -1,5 +1,8 @@
 import React from 'react';
 import '../css/navBar.css'
+import { Link } from "react-router-dom";
+import Home from "../page/Home";
+
 const NavBar = ({}) => {
     return (
         <div>
@@ -15,24 +18,24 @@ const NavBar = ({}) => {
 
                             <div className="hidden sm:ml-6 sm:block">
                                 <div className="flex space-x-8">
-                                    <a href="/"
+                                    <Link to={"/"}
                                        className="text_nav rounded-md px-3 py-2 text-sm font-medium"
-                                       aria-current="page">HOME</a>
-                                    <a href="#"
-                                       className="bold text_nav rounded-md px-3 py-2 text-sm font-medium">COLLECTION</a>
-                                    <a href="#"
-                                       className="text_nav rounded-md px-3 py-2 text-sm font-medium">FORUM</a>
-                                    <a href="#"
-                                       className="text_nav rounded-md px-3 py-2 text-sm font-medium">CONTACT</a>
-                                    <a href="#"
-                                       className="rounded-md px-3 py-2 text-sm font-medium text_nav">PLUS SUR LES VASE</a>
+                                       aria-current="page">HOME</Link>
+                                    <Link to={"/collection"}
+                                       className="bold text_nav rounded-md px-3 py-2 text-sm font-medium">COLLECTION</Link>
+                                    <Link to={"/forum"}
+                                       className="text_nav rounded-md px-3 py-2 text-sm font-medium">FORUM</Link>
+                                    <Link to={"/contact"}
+                                       className="text_nav rounded-md px-3 py-2 text-sm font-medium">CONTACT</Link>
+                                    <Link to={"/nous"}
+                                       className="rounded-md px-3 py-2 text-sm font-medium text_nav">PLUS SUR LES VASE</Link>
                                 </div>
                             </div>
                         </div>
-                                <a href="/register"
-                                className="rounded-md px-3 py-2 text-sm font-medium text_nav_connection">REGISTER</a>
-                            <a href="/login"
-                            className=" rounded-md px-3 py-2 text-sm font-medium text_nav_connection">LOGIN</a>
+                                <Link to={"/register"}
+                                className="rounded-md px-3 py-2 text-sm font-medium text_nav_connection">REGISTER</Link>
+                            <Link to={"/login"}
+                            className=" rounded-md px-3 py-2 text-sm font-medium text_nav_connection">LOGIN</Link>
                     </div>
                 </div>
             </nav>

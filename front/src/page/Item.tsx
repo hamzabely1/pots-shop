@@ -1,70 +1,64 @@
-import React from 'react';
+import React, {useEffect, useState} from 'react';
+import axios from "axios";
+
+
+interface ItemClass {
+    itemName: string;
+    itemImage : string;
+    itemPrice : number;
+}
 
 const Item = () => {
+
+    const [dataItem,setDataItem] = useState([])
+
+    useEffect(() => {
+
+        axios.get("https://localhost:7269/api/Item").then((res) => {
+            const all = res.data;
+            console.log(all)
+            setDataItem(all);
+        });
+    },[]);
+
     return (
         <div>
-            <div className="flex justify-center">
-                <div className="border-b-4 border-amber-800 linea mt-1">
-                    <h2 className="text_nav font-bold leading-7 text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight">Les plus populair</h2>
-                </div>
+            <div className="relative justify-center flex items-center">
+                <div className="bg-amber-700 linea1"></div>
+                <h2 className="text_nav  leading-7 text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight">Notre Produits</h2>
+                <div className="linea1"></div>
             </div>
 
-
+<div className=" flex">
+                {
+                   dataItem.map((value : ItemClass,i) => (
             <div className="bg-white">
-                <div className="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
-                    <h2 className="sr-only">Products</h2>
+                <div className="sm:py-24">
 
-                    <div
-                        className="grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
-                        <a href="#" className="group">
+                    <div className="card flex justify-center">
+                        <a href="#" className="">
+                            <p className="mt-1 text-lg font-medium text-gray-900 m-5 ">{value.itemName}</p>
                             <div
-                                className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
+                                className="w-52 flex justify-center">
                                 <img
-                                    src="https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg"
+                                    src={value.itemImage}
                                     alt="Tall slender porcelain bottle with natural clay textured body and cork stopper."
                                     className="h-full w-full object-cover object-center group-hover:opacity-75"/>
                             </div>
-                            <h3 className="mt-4 text-sm text-gray-700">Earthen Bottle</h3>
-                            <p className="mt-1 text-lg font-medium text-gray-900">$48</p>
-                        </a>
-                        <a href="#" className="group">
-                            <div
-                                className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
-                                <img
-                                    src="https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg"
-                                    alt="Olive drab green insulated bottle with flared screw lid and flat top."
-                                    className="h-full w-full object-cover object-center group-hover:opacity-75"/>
-                            </div>
-                            <h3 className="mt-4 text-sm text-gray-700">Nomad Tumbler</h3>
-                            <p className="mt-1 text-lg font-medium text-gray-900">$35</p>
-                        </a>
-                        <a href="#" className="group">
-                            <div
-                                className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
-                                <img
-                                    src="https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg"
-                                    alt="Person using a pen to cross a task off a productivity paper card."
-                                    className="h-full w-full object-cover object-center group-hover:opacity-75"/>
-                            </div>
-                            <h3 className="mt-4 text-sm text-gray-700">Focus Paper Refill</h3>
-                            <p className="mt-1 text-lg font-medium text-gray-900">$89</p>
-                        </a>
-                        <a href="#" className="group">
-                            <div
-                                className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7">
-                                <img
-                                    src="https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg"
-                                    alt="Hand holding black machined steel mechanical pencil with brass tip and top."
-                                    className="h-full w-full object-cover object-center group-hover:opacity-75"/>
-                            </div>
-                            <h3 className="mt-4 text-sm text-gray-700">Machined Mechanical Pencil</h3>
-                            <p className="mt-1 text-lg font-medium text-gray-900">$35</p>
-                        </a>
+                            <button
+                                className="rounded-md bg-red-50 px-2 py-1 text-xl font-medium text-red-700 ring-1 ring-inset ring-red-600/10">info</button>
+                            <h3 className="mt-4 text-sm text-gray-700">{value.itemPrice} $</h3>
 
+                            <button
+                                className="rounded-md bg-red-50 px-2 py-1 text-xl font-medium text-red-700 ring-1 ring-inset ring-red-600/10">ajoute au panier</button>
+                        </a>
                     </div>
                 </div>
-            </div>
 
+            </div>
+                    ))
+                }
+</div>
         </div>
     );
 };

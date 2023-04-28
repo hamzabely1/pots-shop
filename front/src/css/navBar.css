@@ -11,5 +11,13 @@
 
 .text_nav_connection{
     color : #58260D;
-
+}
+.linea1{
+    background-color: #58260D;
+    height:10px;
+    width: 150px;
+    margin-top:15px;
+    border-radius:2px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
