@@ -19,5 +19,6 @@ namespace Api.Data.Context.Contract
         DbSet<Panier> Paniers { get; set; }
 
         DbSet<User> Users { get; set; }
+       
     }
 }

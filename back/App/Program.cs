@@ -13,7 +13,13 @@ builder.Services.AddSwaggerGen();
 builder.Services.ConfigureDBContext(configuration);
 builder.Services.ConfigureInjectionDependencyRepository();
 builder.Services.ConfigureInjectionDependencyService();
-
+builder.Services.AddCors(
+    options => options.AddPolicy("TestPolicy",
+        policy => policy.WithOrigins("http://localhost:3000")
+        .AllowAnyHeader()
+        .AllowAnyMethod()
+    ) 
+    );
 
 var app = builder.Build();
 
@@ -28,6 +34,7 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
+app.UseCors("TestPolicy");
 app.MapControllers();
 
 app.Run();

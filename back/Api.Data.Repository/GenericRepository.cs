@@ -29,9 +29,9 @@ namespace Api.Data.Repository
 
 
 
-        public async Task<T> GetByKeyAsync(object id)
+        public async Task<T> GetByKeyAsync(object name)
         {
-            return await _table.FindAsync(id).ConfigureAwait(false);
+            return await _table.FindAsync(name).ConfigureAwait(false);
         }
 
         public async Task<T> CreateElementAsync(T element)

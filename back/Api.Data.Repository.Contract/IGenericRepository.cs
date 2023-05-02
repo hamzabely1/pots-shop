@@ -12,7 +12,7 @@ namespace Api.Data.Repository.Contract
         Task<IEnumerable<T>> GetAllAsync();
 
 
-        Task<T> GetByKeyAsync(object id);
+        Task<T> GetByKeyAsync(object name);
 
 
         Task<T> CreateElementAsync(T element);

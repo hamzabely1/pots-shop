@@ -1,8 +1,3 @@
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.csproj.AssemblyReference.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.AssemblyInfoInputs.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.AssemblyInfo.cs
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.csproj.CoreCompileInputs.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\net6.0\Api.Business.Service.deps.json
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\net6.0\Api.Business.Service.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\net6.0\Api.Business.Service.pdb
@@ -18,6 +13,11 @@ C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\net6.0\Api.Data.Repository.Contract.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\net6.0\Api.Business.Model.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\bin\Debug\net6.0\Api.Data.Context.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.csproj.CoreCompileInputs.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.csproj.CopyComplete
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\Api.Business.Service.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Service\obj\Debug\net6.0\refint\Api.Business.Service.dll

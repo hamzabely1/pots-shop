@@ -14,6 +14,10 @@ namespace Api.Business.Service
 
         public static UserRead TransformUserToDTO(User user)
         {
+            if(user == null)
+            {
+                return null;
+            }
             UserRead userRead = new UserRead()
             {
                 UserLastName = user.LastName,
@@ -22,7 +26,24 @@ namespace Api.Business.Service
                 UserPassword = user.Password
 
             };
+           
             return userRead;
+        }
+
+        public static UserAdd TransformUserToDTOAdd(User user)
+        {
+            if (user == null)
+            {
+                return null;
+            }
+            UserAdd userAdd = new UserAdd()
+            {
+                UserEmail = user.Email,
+                UserPassword = user.Password
+
+            };
+
+            return userAdd;
         }
         public static ItemRead TransformItemToDTO(Item item)
         {
