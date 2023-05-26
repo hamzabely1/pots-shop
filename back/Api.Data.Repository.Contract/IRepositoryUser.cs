@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Api.Data.Entity2.Model;
+using Api.Data.Entity.Model;
 
 
 namespace Api.Data.Repository.Contract
@@ -15,7 +15,7 @@ namespace Api.Data.Repository.Contract
 
         Task<User> Login(User element);
 
-        Task<User> GetByUser(string name);
+
     }
 
 }

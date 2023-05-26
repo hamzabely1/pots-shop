@@ -2,10 +2,10 @@ C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\n
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Repository.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Repository.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Context.Contract.dll
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Entity2.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Entity.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Repository.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Entity.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Repository.Contract.pdb
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Entity2.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\bin\Debug\net6.0\Api.Data.Context.Contract.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\obj\Debug\net6.0\Api.Data.Repository.csproj.AssemblyReference.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Repository\obj\Debug\net6.0\Api.Data.Repository.GeneratedMSBuildEditorConfig.editorconfig

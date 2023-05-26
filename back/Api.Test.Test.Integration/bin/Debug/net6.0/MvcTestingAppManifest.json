@@ -1,0 +1,12 @@
+{
+  "Api.Business.Model, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Business.Model",
+  "Api.Business.Service.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Business.Service.Contract",
+  "Api.Business.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Business.Service",
+  "Api.Data.Context.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Context.Contract",
+  "Api.Data.Context, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Context",
+  "Api.Data.Entity, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity",
+  "Api.Data.Repository.Contract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Repository.Contract",
+  "Api.Data.Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Repository",
+  "Api.Ioc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Ioc",
+  "Api.Ioc.Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Ioc.Test"
+}

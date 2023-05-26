@@ -11,7 +11,7 @@
           "Api.Business.Model": "1.0.0",
           "Api.Business.Service": "1.0.0",
           "Api.Business.Service.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Ioc": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
@@ -1331,7 +1331,7 @@
       "Api.Business.Service/1.0.0": {
         "dependencies": {
           "Api.Business.Service.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Data.Repository": "1.0.0",
           "Api.Data.Repository.Contract": "1.0.0"
         },
@@ -1349,7 +1349,8 @@
       },
       "Api.Data.Context/1.0.0": {
         "dependencies": {
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Context.Contract": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
@@ -1360,7 +1361,7 @@
       },
       "Api.Data.Context.Contract/1.0.0": {
         "dependencies": {
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2",
           "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": "7.0.0"
@@ -1369,19 +1370,19 @@
           "Api.Data.Context.Contract.dll": {}
         }
       },
-      "Api.Data.Entity2/1.0.0": {
+      "Api.Data.Entity/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "runtime": {
-          "Api.Data.Entity2.dll": {}
+          "Api.Data.Entity.dll": {}
         }
       },
       "Api.Data.Repository/1.0.0": {
         "dependencies": {
           "Api.Data.Context.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Data.Repository.Contract": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2",
@@ -1393,7 +1394,7 @@
       },
       "Api.Data.Repository.Contract/1.0.0": {
         "dependencies": {
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2",
           "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": "7.0.0"
@@ -1408,7 +1409,7 @@
           "Api.Business.Service.Contract": "1.0.0",
           "Api.Data.Context": "1.0.0",
           "Api.Data.Context.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Data.Repository": "1.0.0",
           "Api.Data.Repository.Contract": "1.0.0"
         },
@@ -2380,7 +2381,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Api.Data.Entity2/1.0.0": {
+    "Api.Data.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

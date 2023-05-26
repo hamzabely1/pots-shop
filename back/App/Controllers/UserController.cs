@@ -18,7 +18,7 @@ namespace App.Controllers
                 _serviceUser = serviceUser;
             }
         /// <summary>
-        /// GET BY USER
+        /// get user by name
         /// </summary>
         /// <param name="name"></param>
         /// <returns></returns>
@@ -40,7 +40,7 @@ namespace App.Controllers
             }
 
         /// <summary>
-        /// REGISTER USER
+        /// register user
         /// </summary>
         /// <param name="userRead"></param>
         /// <returns></returns>
@@ -48,14 +48,14 @@ namespace App.Controllers
         [ProducesResponseType(typeof(UserRead), 200)]
         [ProducesResponseType(typeof(StatusCodeResult), 500)]
         [ProducesResponseType(typeof(StatusCodeResult), 400)]
-        public async Task<ActionResult> FuncRegister(UserRead userRead)
+        public async Task<ActionResult<UserRead>> FuncRegister(UserRegister userDto)
         {
-            var user = await _serviceUser.ServiceRegister(userRead).ConfigureAwait(false);
+            UserRead user = await _serviceUser.ServiceRegister(userDto).ConfigureAwait(false);
             return Ok(user);   
         }
 
         /// <summary>
-        /// LOGIN USER
+        ///login user
         /// </summary>
         /// <param name="userRead"></param>
         /// <returns></returns>
@@ -63,24 +63,42 @@ namespace App.Controllers
         [ProducesResponseType(typeof(UserRead), 200)]
         [ProducesResponseType(typeof(StatusCodeResult), 500)]
         [ProducesResponseType(typeof(StatusCodeResult), 400)]
-        public async Task<ActionResult> FuncLogin(UserAdd userAdd)
+        public async Task<ActionResult> FuncLogin(UserLogin userDto)
         {
-            
-            var user = await _serviceUser.ServiceLogin(userAdd).ConfigureAwait(false);
-           if(user.UserEmail == null  )
-            {
-                return BadRequest("email recuire");
-            }
-                 else if (user.UserPassword == null)
-            {
-                return BadRequest("password rexuire");
-            }
-                else if (user.UserEmail != "" && user.UserPassword != "") { }
-            {
-                return Ok("login passe");
-            }
-          
-            
+            var user = await _serviceUser.ServiceLogin(userDto).ConfigureAwait(false);       
+            return Ok(user);
         }
+
+        /// <summary>
+        /// update user
+        /// </summary>
+        /// <param name="userRead"></param>
+        /// <returns></returns>
+        [HttpPut("update{id}")]
+        [ProducesResponseType(typeof(UserRead), 200)]
+        [ProducesResponseType(typeof(StatusCodeResult), 500)]
+        [ProducesResponseType(typeof(StatusCodeResult), 400)]
+        public async Task<ActionResult> FuncUpdate(UserRegister userDto,int id)
+        {
+            var user = await _serviceUser.ServiceUpdate(userDto, id);
+            return Ok(user);
+        }
+
+
+        /// <summary>
+        /// delete user
+        /// </summary>
+        /// <param name="userRead"></param>
+        /// <returns></returns>
+        [HttpDelete("delete{id}")]
+        [ProducesResponseType(typeof(UserRead), 200)]
+        [ProducesResponseType(typeof(StatusCodeResult), 500)]
+        [ProducesResponseType(typeof(StatusCodeResult), 400)]
+        public async Task<ActionResult> FuncDelete(int id)
+        {
+            var user = await _serviceUser.ServiceDelete(id);
+            return Ok(user);
+        }
+
     }
 }

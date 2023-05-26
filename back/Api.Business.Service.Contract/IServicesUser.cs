@@ -10,9 +10,14 @@ namespace Api.Business.Service.Contract
     public interface IServicesUser
     {
 
-        Task<UserAdd> ServiceLogin(UserAdd user);
+        Task<UserRead> ServiceLogin(UserLogin user);
+
         Task<UserRead> ServiceGetByUser(string name);
 
-        Task<UserRead> ServiceRegister(UserRead user);
+        Task<UserRead> ServiceRegister(UserRegister user);
+
+        Task<UserRead> ServiceUpdate(UserRegister user,int id);
+
+        Task<UserRead> ServiceDelete(int id);
     }
 }

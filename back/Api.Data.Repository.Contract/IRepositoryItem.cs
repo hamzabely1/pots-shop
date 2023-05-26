@@ -1,4 +1,4 @@
-﻿using Api.Data.Entity2.Model;
+﻿using Api.Data.Entity.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;

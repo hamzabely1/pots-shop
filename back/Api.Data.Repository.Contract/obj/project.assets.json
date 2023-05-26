@@ -1684,7 +1684,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Api.Data.Entity2/1.0.0": {
+      "Api.Data.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -1692,10 +1692,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/Api.Data.Entity2.dll": {}
+          "bin/placeholder/Api.Data.Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Api.Data.Entity2.dll": {}
+          "bin/placeholder/Api.Data.Entity.dll": {}
         }
       }
     }
@@ -5553,15 +5553,15 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Api.Data.Entity2/1.0.0": {
+    "Api.Data.Entity/1.0.0": {
       "type": "project",
-      "path": "../Api.Data.Entity2/Api.Data.Entity2.csproj",
-      "msbuildProject": "../Api.Data.Entity2/Api.Data.Entity2.csproj"
+      "path": "../Api.Data.Entity/Api.Data.Entity.csproj",
+      "msbuildProject": "../Api.Data.Entity/Api.Data.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Api.Data.Entity2 >= 1.0.0",
+      "Api.Data.Entity >= 1.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 7.0.0",
       "Pomelo.EntityFrameworkCore.MySql.Design >= 1.1.2",
       "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft >= 7.0.0"
@@ -5600,8 +5600,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
-              "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj"
+            "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+              "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj"
             }
           }
         }

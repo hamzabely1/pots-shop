@@ -6,8 +6,13 @@ using System.Threading.Tasks;
 
 namespace Api.Business.Model.User
 {
-    public class UserRead :  UserBase
+    public class UserRead 
     {
-        public int UserId { get; set; }
+
+        public string? LastName { get; set; }
+
+        public string? FirstName { get; set; }
+
+        public string? Email { get; set; }
     }
 }

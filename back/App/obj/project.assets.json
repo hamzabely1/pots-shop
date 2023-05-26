@@ -2344,7 +2344,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Api.Business.Service.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Data.Repository": "1.0.0",
           "Api.Data.Repository.Contract": "1.0.0"
         },
@@ -2372,7 +2372,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Context.Contract": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
@@ -2388,7 +2389,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2",
           "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": "7.0.0"
@@ -2400,7 +2401,7 @@
           "bin/placeholder/Api.Data.Context.Contract.dll": {}
         }
       },
-      "Api.Data.Entity2/1.0.0": {
+      "Api.Data.Entity/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2408,10 +2409,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/Api.Data.Entity2.dll": {}
+          "bin/placeholder/Api.Data.Entity.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Api.Data.Entity2.dll": {}
+          "bin/placeholder/Api.Data.Entity.dll": {}
         }
       },
       "Api.Data.Repository/1.0.0": {
@@ -2419,7 +2420,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Api.Data.Context.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Data.Repository.Contract": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2",
@@ -2436,7 +2437,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "7.0.0",
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2",
           "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": "7.0.0"
@@ -2456,7 +2457,7 @@
           "Api.Business.Service.Contract": "1.0.0",
           "Api.Data.Context": "1.0.0",
           "Api.Data.Context.Contract": "1.0.0",
-          "Api.Data.Entity2": "1.0.0",
+          "Api.Data.Entity": "1.0.0",
           "Api.Data.Repository": "1.0.0",
           "Api.Data.Repository.Contract": "1.0.0"
         },
@@ -7533,10 +7534,10 @@
       "path": "../Api.Data.Context.Contract/Api.Data.Context.Contract.csproj",
       "msbuildProject": "../Api.Data.Context.Contract/Api.Data.Context.Contract.csproj"
     },
-    "Api.Data.Entity2/1.0.0": {
+    "Api.Data.Entity/1.0.0": {
       "type": "project",
-      "path": "../Api.Data.Entity2/Api.Data.Entity2.csproj",
-      "msbuildProject": "../Api.Data.Entity2/Api.Data.Entity2.csproj"
+      "path": "../Api.Data.Entity/Api.Data.Entity.csproj",
+      "msbuildProject": "../Api.Data.Entity/Api.Data.Entity.csproj"
     },
     "Api.Data.Repository/1.0.0": {
       "type": "project",
@@ -7559,7 +7560,7 @@
       "Api.Business.Model >= 1.0.0",
       "Api.Business.Service >= 1.0.0",
       "Api.Business.Service.Contract >= 1.0.0",
-      "Api.Data.Entity2 >= 1.0.0",
+      "Api.Data.Entity >= 1.0.0",
       "Api.Ioc >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -7606,8 +7607,8 @@
             "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Business.Service\\Api.Business.Service.csproj": {
               "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Business.Service\\Api.Business.Service.csproj"
             },
-            "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
-              "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj"
+            "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+              "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj"
             },
             "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Ioc\\Api.Ioc.csproj": {
               "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Ioc\\Api.Ioc.csproj"

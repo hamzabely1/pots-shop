@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
-                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj"
+              "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
+    "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj",
-        "projectName": "Api.Data.Entity2",
-        "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj",
+        "projectUniqueName": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj",
+        "projectName": "Api.Data.Entity",
+        "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj",
         "packagesPath": "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\obj\\",
+        "outputPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,8 +193,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
-                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj"
+              "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj"
               }
             }
           }
@@ -274,8 +274,8 @@
               "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Context.Contract\\Api.Data.Context.Contract.csproj": {
                 "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Context.Contract\\Api.Data.Context.Contract.csproj"
               },
-              "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj": {
-                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity2\\Api.Data.Entity2.csproj"
+              "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Entity\\Api.Data.Entity.csproj"
               },
               "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj": {
                 "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj"

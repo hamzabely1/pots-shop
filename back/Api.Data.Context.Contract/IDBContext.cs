@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using Api.Data.Entity2.Model;
+using Api.Data.Entity.Model;
 
 namespace Api.Data.Context.Contract
 {
@@ -16,9 +16,31 @@ namespace Api.Data.Context.Contract
 
         DbSet<Item> Items { get; set; }
 
-        DbSet<Panier> Paniers { get; set; }
+        DbSet<Basket> Baskets { get; set; }
 
         DbSet<User> Users { get; set; }
+
+        DbSet<Order> Orders { get; set; }
+
+        DbSet<Address> Addresses { get; set; }
+
+        DbSet<AddressUser> AddressUsers { get; set; }   
+
+        DbSet<BasketItem> BasketItems { get; set; }
+
+        DbSet<Color> Colors { get; set; }
+
+        DbSet<Comment> Comments { get; set; }   
+
+        DbSet<Category> Categories { get; set; }
+
+        DbSet<Role> Roles { get; set; }
+
+        DbSet<OrderItem> OrderItems { get; set; }
+
+        DbSet<Material> Materials { get; set; }
+
+ 
        
     }
 }

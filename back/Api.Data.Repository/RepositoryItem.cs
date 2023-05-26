@@ -1,5 +1,5 @@
 ﻿using Api.Data.Context.Contract;
-using Api.Data.Entity2.Model;
+using Api.Data.Entity.Model;
 using Api.Data.Repository.Contract;
 using Microsoft.EntityFrameworkCore;
 using System;

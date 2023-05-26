@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Api.Data.Entity2.Model;
+using Api.Data.Entity.Model;
 using Api.Data.Context.Contract;
 using Microsoft.EntityFrameworkCore;
 using System.Xml.Linq;
@@ -24,18 +24,10 @@ namespace Api.Data.Repository
         public readonly DbSet<User> _table;
 
 
-        /// <summary>
-        /// GET BY USER
-        /// </summary>
-        /// <param name="name"></param>
-        /// <returns></returns>
-        public async Task<User> GetByUser(string name)
-        {
-            return await _idbcontext.Users.FirstOrDefaultAsync(x => x.FirstName == name).ConfigureAwait(false);
-        }
+ 
 
         /// <summary>
-        /// REGISTER
+        /// Rregister user
         /// </summary>
         /// <param name="element"></param>
         /// <returns></returns>
@@ -58,10 +50,15 @@ namespace Api.Data.Repository
         public async Task<User> Login(User element)
         {
             await _idbcontext.SaveChangesAsync().ConfigureAwait(false);
-        var verifi = await _idbcontext.Users.FirstOrDefaultAsync(x => x.Email == element.Email && x.Password == element.Password).ConfigureAwait(false);
+            var verifi = await _idbcontext.Users.FirstOrDefaultAsync(x => x.Email == element.Email && x.Password == element.Password).ConfigureAwait(false);
 
             return verifi;
 
         }
+
+
+   
+
+
     }
 }

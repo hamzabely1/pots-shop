@@ -15,7 +15,7 @@
 	  <ProjectReference Include="..\Api.Business.Service.Contract\Api.Business.Service.Contract.csproj" />
 	  <ProjectReference Include="..\Api.Business.Model\Api.Business.Model.csproj" />
 	  <ProjectReference Include="..\Api.Business.Service\Api.Business.Service.csproj" />
-	  <ProjectReference Include="..\Api.Data.Entity2\Api.Data.Entity2.csproj" />
+	  <ProjectReference Include="..\Api.Data.Entity\Api.Data.Entity.csproj" />
   	  <ProjectReference Include="..\Api.Ioc\Api.Ioc.csproj" />
 
   </ItemGroup>

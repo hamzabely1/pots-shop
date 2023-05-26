@@ -14,8 +14,9 @@
   </ItemGroup>
 	
   <ItemGroup>
+    <ProjectReference Include="..\Api.Data.Entity\Api.Data.Entity.csproj" />
     <ProjectReference Include="..\Api.Data.Repository.Contract\Api.Data.Repository.Contract.csproj" />
-	  <ProjectReference Include="..\Api.Data.Entity2\Api.Data.Entity2.csproj" />
+	  <ProjectReference Include="..\Api.Data.Entity\Api.Data.Entity.csproj" />
 	  <ProjectReference Include="..\Api.Data.Context.Contract\Api.Data.Context.Contract.csproj" />
 
   </ItemGroup>
