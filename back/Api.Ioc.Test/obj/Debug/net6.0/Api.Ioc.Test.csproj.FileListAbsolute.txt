@@ -1,3 +1,8 @@
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CoreCompileInputs.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.deps.json
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.pdb
@@ -19,11 +24,6 @@ C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\A
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Model.pdb
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.AssemblyReference.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfoInputs.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfo.cs
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CoreCompileInputs.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CopyComplete
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\refint\Api.Ioc.Test.dll

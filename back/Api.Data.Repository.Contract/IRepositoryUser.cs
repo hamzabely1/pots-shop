@@ -15,7 +15,7 @@ namespace Api.Data.Repository.Contract
 
         Task<User> Login(User element);
 
-
+        Task<User> GetUserByName(string name);
     }
 
 }

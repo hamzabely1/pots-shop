@@ -18,6 +18,8 @@ namespace Api.Ioc
         {
             services.AddScoped<IRepositoryUser, RepositoryUser>();
             services.AddScoped<IRepositoryItem, RepositoryItem>();
+            services.AddScoped<IRepositoryAddress, RepositoryAddress>();
+            services.AddScoped<IRepositoryComments, RepositoryComments>();
 
 
             return services;
@@ -27,8 +29,9 @@ namespace Api.Ioc
             // Injections des Dépendances
             // - Service
 
-            services.AddScoped<IServicesUser, ServicesUser>();
+            services.AddScoped<IServiceUser, ServiceUser>();
             services.AddScoped<IServiceItem, ServiceItem>();
+            services.AddScoped<IServiceComments, ServiceComments>();
 
             return services;
         }

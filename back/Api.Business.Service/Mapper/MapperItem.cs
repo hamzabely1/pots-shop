@@ -27,7 +27,7 @@ namespace Api.Business.Service.Mapper
             };
         }
 
-        public static Item TransformItemAdd(ItemAdd item)
+        public static Item TransformDtoAdd(ItemAdd item)
         {
             return new Item()
             {

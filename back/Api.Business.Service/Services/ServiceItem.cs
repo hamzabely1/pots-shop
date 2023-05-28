@@ -21,17 +21,36 @@ namespace Api.Business.Service.Services
         {
             _repositoryitem = repositoryItem;
         }
+
+          
+        /// <summary>
+        /// get item by id
+        /// </summary>
+        /// <returns></returns>
+        public async Task<ItemRead> GetItemById(int id)
+        {
+            Item item = await _repositoryitem.GetByKeys(id).ConfigureAwait(false);
+            if (item == null)
+            {
+                return null;
+            }
+            else
+            {
+                return MapperItem.TransformDtoExit(item);
+            }
+        }
+
         /// <summary>
         /// list item
         /// </summary>
         /// <returns></returns>
-        public async Task<List<ItemRead>> GetListItemAsync()
+        public async Task<List<ItemRead>> GetList()
         {
             var items = await _repositoryitem.GetAllAsync().ConfigureAwait(false);
 
             List<ItemRead> itemDtos = new();
 
-            foreach (var item in items)
+            foreach (Item item in items)
             {
                 itemDtos.Add(MapperItem.TransformItemToDTO(item));
             }
@@ -44,9 +63,9 @@ namespace Api.Business.Service.Services
         /// </summary>
         /// <param name="itemBase"></param>
         /// <returns></returns>
-        public async Task<ItemRead> ServiceAddItem(ItemAdd itemDto)
+        public async Task<ItemRead> AddItem(ItemAdd itemDto)
         {
-            Item itemToAdd = MapperItem.TransformItemAdd(itemDto);
+            Item itemToAdd = MapperItem.TransformDtoAdd(itemDto);
             Item item = await _repositoryitem.CreateElementAsync(itemToAdd).ConfigureAwait(false);
             return MapperItem.TransformDtoExit(item);
         }
@@ -57,12 +76,19 @@ namespace Api.Business.Service.Services
         /// </summary>
         /// <param name="userDto"></param>
         /// <returns></returns>
-        public async Task<ItemRead> ServiceUpdate(ItemRead itemDto, int id)
+        public async Task<ItemRead> Update(ItemRead itemDto, int id)
         {
-            var itemUpdate = await _repositoryitem.GetByObjectByKeys(id);
-            Item item = await _repositoryitem.UpdateElementAsync(itemUpdate, id);
+            var itemUpdate = await _repositoryitem.GetByKeys(id);
 
-            return MapperItem.TransformDtoExit(item);
+            if (itemUpdate == null)
+            {
+                return null;
+            }
+            else
+            {
+                Item item = await _repositoryitem.UpdateElementAsync(itemUpdate, id);
+                return MapperItem.TransformDtoExit(item);
+            }
         }
 
 
@@ -71,13 +97,19 @@ namespace Api.Business.Service.Services
         /// </summary>
         /// <param name="userDto"></param>
         /// <returns></returns>
-        public async Task<ItemRead> ServiceDelete(int id)
+        public async Task<ItemRead> Delete(int id)
         {
-            var itemId = await _repositoryitem.GetByObjectByKeys(id);
-            Item item = await _repositoryitem.DeleteElementAsync(itemId);
 
-            return MapperItem.TransformDtoExit(item);
+            var itemId = await _repositoryitem.GetByKeys(id);
+            if (itemId == null)
+            {
+                return null;
+            }
+            else
+            {
+                Item item = await _repositoryitem.DeleteElementAsync(itemId);
+                return MapperItem.TransformDtoExit(item);
+            }
         }
-
     }
 }

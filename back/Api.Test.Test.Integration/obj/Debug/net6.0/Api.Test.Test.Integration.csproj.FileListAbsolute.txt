@@ -1,4 +1,10 @@
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\MvcTestingAppManifest.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.csproj.CoreCompileInputs.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\testhost.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\testhost.exe
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\MvcTestingAppManifest.json
@@ -446,12 +452,6 @@ C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\D
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\Api.Data.Repository.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\Api.Data.Repository.Contract.pdb
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\bin\Debug\net6.0\Api.Ioc.pdb
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.csproj.AssemblyReference.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\MvcTestingAppManifest.json
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.AssemblyInfoInputs.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.AssemblyInfo.cs
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.csproj.CoreCompileInputs.cache
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.csproj.CopyComplete
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\Api.Test.Test.Integration.dll
 C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.Test.Integration\obj\Debug\net6.0\refint\Api.Test.Test.Integration.dll

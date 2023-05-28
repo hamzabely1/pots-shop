@@ -28,13 +28,51 @@ namespace App.Controllers
             [ProducesResponseType(typeof(IEnumerable<ItemRead>), 200)]
             [ProducesResponseType(typeof(StatusCodeResult), 500)]
             [ProducesResponseType(typeof(StatusCodeResult), 400)]
-            public async Task<ActionResult> Get()
+            public async Task<ActionResult> FuncGetList()
             {
-                var item = await _serviceitem.GetListItemAsync().ConfigureAwait(false);
+                var item = await _serviceitem.GetList().ConfigureAwait(false);
 
                 return Ok(item);
             }
 
+
+        /// <summary>
+        /// get item by id
+        /// </summary>
+        /// <returns></returns>
+
+        [HttpGet("{id}")]
+        [ProducesResponseType(typeof(IEnumerable<ItemRead>), 200)]
+        [ProducesResponseType(typeof(StatusCodeResult), 500)]
+        [ProducesResponseType(typeof(StatusCodeResult), 400)]
+        public async Task<ActionResult> FuncGetItemById(int id)
+        {
+
+            
+            var item = await _serviceitem.GetItemById(id).ConfigureAwait(false);
+
+            if(item == null)
+            {
+                return BadRequest("item ne existe pas");
+            }
+
+            return Ok(item);
+        }
+
+        /// <summary>
+        /// add item
+        /// </summary>
+        /// <param name="userRead"></param>
+        /// <returns></returns>
+        [HttpPost("add")]
+        [ProducesResponseType(typeof(ItemRead), 200)]
+        [ProducesResponseType(typeof(StatusCodeResult), 500)]
+        [ProducesResponseType(typeof(StatusCodeResult), 400)]
+        public async Task<ActionResult<ItemRead>> FuncAdditem(ItemAdd itemDto)
+        {
+            ItemRead user = await _serviceitem.AddItem(itemDto).ConfigureAwait(false);
+            return Ok(user);
+        }
 
         /// <summary>
         /// update item
@@ -47,7 +85,7 @@ namespace App.Controllers
         [ProducesResponseType(typeof(StatusCodeResult), 400)]
         public async Task<ActionResult> FuncUpdate(ItemRead itemDto, int id)
         {
-            var user = await _serviceitem.ServiceUpdate(itemDto, id);
+            var user = await _serviceitem.Update(itemDto, id);
             return Ok(user);
         }
 
@@ -63,24 +101,11 @@ namespace App.Controllers
         [ProducesResponseType(typeof(StatusCodeResult), 400)]
         public async Task<ActionResult> FuncDelete(int id)
         {
-            var user = await _serviceitem.ServiceDelete(id);
+            var user = await _serviceitem.Delete(id);
             return Ok(user);
         }
 
-        /// <summary>
-        /// add item
-        /// </summary>
-        /// <param name="userRead"></param>
-        /// <returns></returns>
-        [HttpPost("add")]
-        [ProducesResponseType(typeof(ItemRead), 200)]
-        [ProducesResponseType(typeof(StatusCodeResult), 500)]
-        [ProducesResponseType(typeof(StatusCodeResult), 400)]
-        public async Task<ActionResult<ItemRead>> FuncAdditem(ItemAdd itemDto)
-        {
-            ItemRead user = await _serviceitem.ServiceAddItem(itemDto).ConfigureAwait(false);
-           return Ok(user);
-        }
+        
 
     }
 }

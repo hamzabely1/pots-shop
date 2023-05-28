@@ -9,6 +9,10 @@ using Api.Data.Context.Contract;
 using Microsoft.EntityFrameworkCore;
 using System.Xml.Linq;
 using System.Reflection.Metadata;
+using System.Security.Cryptography;
+using System.Text.RegularExpressions;
+using Microsoft.VisualBasic;
+using System.ComponentModel;
 
 namespace Api.Data.Repository
 {
@@ -24,7 +28,18 @@ namespace Api.Data.Repository
         public readonly DbSet<User> _table;
 
 
- 
+
+        /// <summary>
+        /// get by name
+        /// </summary>
+        /// <param name="element"></param>
+        /// <returns></returns>
+        public async Task<User> GetUserByName(string name)
+        {
+           User user = await _idbcontext.Users.FirstOrDefaultAsync(x => x.FirstName == name ).ConfigureAwait(false);
+           return user;
+        }
+
 
         /// <summary>
         /// Rregister user
@@ -50,10 +65,15 @@ namespace Api.Data.Repository
         public async Task<User> Login(User element)
         {
             await _idbcontext.SaveChangesAsync().ConfigureAwait(false);
-            var verifi = await _idbcontext.Users.FirstOrDefaultAsync(x => x.Email == element.Email && x.Password == element.Password).ConfigureAwait(false);
 
-            return verifi;
+            
 
+            var user = await _idbcontext.Users.FirstOrDefaultAsync(x =>  x.Email == element.Email).ConfigureAwait(false);
+            if(user != null && user.Password == element.Password)
+            {
+                return user;
+            }
+            return null;
         }
 
 

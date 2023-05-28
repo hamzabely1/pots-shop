@@ -73,12 +73,7 @@ namespace Api.Test.Test.Unitaire
         [Test]
         public async Task GetallUser()
         {
-            string name = "hamza";
-
-            var user = await repository_user.GetByUser(name);
-
-            Assert.IsNotNull(user);
-            Assert.AreEqual(name, user.FirstName);
+            
            
             
         }

@@ -10,14 +10,14 @@ namespace Api.Business.Service.Contract
 {
     public interface IServiceItem
     {
-        Task<List<ItemRead>> GetListItemAsync();
+        Task<List<ItemRead>> GetList();
 
-        Task<ItemRead> ServiceUpdate(ItemRead user, int id);
+        Task<ItemRead> GetItemById(int id);
 
-        Task<ItemRead> ServiceDelete(int id);
+        Task<ItemRead> Update(ItemRead user, int id);
 
-        Task<ItemRead> ServiceAddItem(ItemAdd item);
+        Task<ItemRead> Delete(int id);
 
-
+        Task<ItemRead> AddItem(ItemAdd item);
     }
 }
