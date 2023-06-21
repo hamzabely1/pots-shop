@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "Api.Data.Repository": {
-      "commandName": "Project",
-      "commandLineArgs": "a",
-      "workingDirectory": "C:\\Users\\hamza.belyahiaoui\\Desktop\\pot shop\\back\\App"
-    }
-  }
-}

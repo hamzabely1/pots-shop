@@ -1,5 +1,0 @@
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.TestUnitaire\obj\Debug\net6.0\Api.Test.TestUnitaire.csproj.AssemblyReference.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.TestUnitaire\obj\Debug\net6.0\Api.Test.TestUnitaire.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.TestUnitaire\obj\Debug\net6.0\Api.Test.TestUnitaire.AssemblyInfoInputs.cache
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.TestUnitaire\obj\Debug\net6.0\Api.Test.TestUnitaire.AssemblyInfo.cs
-C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Test.TestUnitaire\obj\Debug\net6.0\Api.Test.TestUnitaire.csproj.CoreCompileInputs.cache
