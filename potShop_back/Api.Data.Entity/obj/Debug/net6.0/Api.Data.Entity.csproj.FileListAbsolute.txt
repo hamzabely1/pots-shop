@@ -1,0 +1,56 @@
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\bin\Debug\net6.0\Api.Data.Entity.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\bin\Debug\net6.0\Api.Data.Entity.runtimeconfig.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\bin\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\bin\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\refint\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\Api.Data.Entity.genruntimeconfig.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity2\obj\Debug\net6.0\ref\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.runtimeconfig.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\refint\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.genruntimeconfig.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Data.Entity\obj\Debug\net6.0\ref\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.runtimeconfig.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\refint\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.genruntimeconfig.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\ref\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.runtimeconfig.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\bin\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\refint\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\Api.Data.Entity.genruntimeconfig.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Data.Entity\obj\Debug\net6.0\ref\Api.Data.Entity.dll

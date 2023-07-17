@@ -1,0 +1,62 @@
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CopyComplete
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\refint\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Ioc.Test\obj\Debug\net6.0\ref\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.Test.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Entity.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.Contract.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Service.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Context.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Entity.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.Contract.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Data.Repository.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Ioc.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\bin\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.csproj.CopyComplete
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\refint\Api.Ioc.Test.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\Api.Ioc.Test.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Ioc.Test\obj\Debug\net6.0\ref\Api.Ioc.Test.dll

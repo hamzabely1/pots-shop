@@ -1,0 +1,36 @@
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\refint\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\pot shop\back\Api.Business.Model\obj\Debug\net6.0\ref\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\refint\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\potShop\potShop_back\Api.Business.Model\obj\Debug\net6.0\ref\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.deps.json
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\bin\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.csproj.AssemblyReference.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.AssemblyInfoInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.AssemblyInfo.cs
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.csproj.CoreCompileInputs.cache
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\refint\Api.Business.Model.dll
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\Api.Business.Model.pdb
+C:\Users\hamza.belyahiaoui\Desktop\ecole\pot\pots-shop\potShop_back\Api.Business.Model\obj\Debug\net6.0\ref\Api.Business.Model.dll
