@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj": {}
+    "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+    "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj",
         "projectName": "Api.Data.Entity",
-        "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj",
+        "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj",
         "packagesPath": "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Entity\\obj\\",
+        "outputPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj": {
+    "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj",
         "projectName": "Api.Data.Repository.Contract",
-        "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj",
+        "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Repository.Contract\\Api.Data.Repository.Contract.csproj",
         "packagesPath": "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Repository.Contract\\obj\\",
+        "outputPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Repository.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
-                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj"
+              "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj": {
+                "projectPath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Entity\\Api.Data.Entity.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "713NQ5+Y2VIISIxD+ef6pN2ueBEPOCBABIuqLmmnWE90Z/VhBl2nfTjMGPTirRXR/jffxSnnLyWfxg/x+lI/hg==",
+  "dgSpecHash": "KDYQFLeZQu4FqyUdeP+vwHR5fo4c+YAE1h3bvQ6VJn9dJKfMFqqLeO2QMsduK/ChcGr0dnZoIBh0pcag37Zdvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Data.Repository\\Api.Data.Repository.csproj",
+  "projectFilePath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Data.Repository\\Api.Data.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9ULw03sGv7ifGEAmBFgHT8vmXYAmlemlfqJgRV+HWkqjITd56Im4qVuUDHbC+YKNX3GBsy1jcUfF8gEUIkMdFg==",
+  "dgSpecHash": "tMxOQCZvHtGVHTo8lWEtDjjGQJhGKzMPg8E5ux14cApkokMPe5cv1ELzgflMCoFuso7/x4AFXtk6VrzIaDyOkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\potShop\\potShop_back\\Api.Ioc\\Api.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\hamza.belyahiaoui\\Desktop\\ecole\\pot\\pots-shop\\potShop_back\\Api.Ioc\\Api.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\hamza.belyahiaoui\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
